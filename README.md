@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ahmed Ali Elgohary</h1>
+<h3 align="center">Computer Science Student | Aspiring Data Scientist / ML Engineer</h3>
 
-<!--
-**Elgohary004/Elgohary004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🎓 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏫 Studying **Computer Science** at **Suez Canal University**, Egypt
+- 📊 Interested in **Data Science, Machine Learning & AI**
+- 🌱 Currently learning **Machine Learning and Artificial Intelligence**
+- 💬 Ask me about Python, data analysis, or anything ML-related
+- 📫 Reach me at **eaelgohary773@gmail.com**
+
+---
+
+### 🛠️ Tools & Technologies
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square)
+
+---
+
+
+---
+
+### 📫 Connect with Me
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eaelgohary773@gmail.com)
+
+---
+
+<p align="center"><i>Thanks for visiting my profile! 🚀</i></p>
