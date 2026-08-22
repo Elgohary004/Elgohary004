@@ -19,8 +19,6 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square)
 
 ---
 
