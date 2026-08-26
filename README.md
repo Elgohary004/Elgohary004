@@ -1,34 +1,48 @@
-<h1 align="center">Hi 👋, I'm Ahmed Ali Elgohary</h1>
-<h3 align="center">Computer Science Student | Aspiring Data Scientist / ML Engineer</h3>
+# Hi, I'm Ahmed Ali Elgohary 👋
+
+🎓 Information Systems student at the Faculty of Computers and Informatics, Suez Canal University
+📊 Focused on building a career in **Data Analytics**
+🤖 Currently learning **Machine Learning & AI**
 
 ---
 
-### 🎓 About Me
-
-- 🏫 Studying **Computer Science** at **Suez Canal University**, Egypt
-- 📊 Interested in **Data Science, Machine Learning & AI**
-- 🌱 Currently learning **Machine Learning and Artificial Intelligence**
-- 💬 Ask me about Python, data analysis, or anything ML-related
-- 📫 Reach me at **eaelgohary773@gmail.com**
+### 🧠 About Me
+I'm passionate about turning raw data into meaningful insights. I enjoy working with numbers, building dashboards, and uncovering patterns that help drive better decisions. I'm actively expanding my skill set toward machine learning to bring predictive power to my analysis.
 
 ---
 
-### 🛠️ Tools & Technologies
+### 🛠️ Skills & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**Programming & Data Analysis**
+- Python
+- Pandas
+- NumPy
+
+**Data Visualization**
+- Power BI
+- Excel
+- Matplotlib / Seaborn
+
+**Databases**
+- SQL
+
+**Currently Learning**
+- Machine Learning
+- Artificial Intelligence
 
 ---
 
+### 📌 What I'm Working On
+- Building end-to-end data analysis projects (cleaning → analysis → visualization)
+- Practicing SQL queries on real-world datasets
+- Creating Power BI dashboards
+- Studying core Machine Learning algorithms
 
 ---
 
-### 📫 Connect with Me
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eaelgohary773@gmail.com)
+### 📫 Let's Connect
+- 📧 Email: eaelgohary773@gmail.com
 
 ---
 
-<p align="center"><i>Thanks for visiting my profile! 🚀</i></p>
+⭐️ *Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.*
